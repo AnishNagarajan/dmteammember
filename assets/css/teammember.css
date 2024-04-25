@@ -1,6 +1,6 @@
 .team-member{
     background-color:hsl(0deg 0% 7% / 5%)
-    margin: 4rem 0rem;
+    padding: 5rem;
 }
 .team{
     display:grid;
