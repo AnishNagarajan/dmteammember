@@ -1,10 +1,9 @@
 .team-member{
     background-color:hsl(0deg 0% 7% / 5%)
-    padding: 5rem;
+    padding: 5rem 3rem;
 }
 .team{
     display:grid;
-    grid-template-columns:2fr 2fr 2fr;
 }
 .tm p{
     font-size:20px;
@@ -36,6 +35,7 @@ font-size:18px;
 .image img:hover{
     filter: saturate(100%);
 }
+
 
 * For small devices (phones, 576px and up) */
 @media (min-width: 576px) {
@@ -98,7 +98,6 @@ font-size:18px;
 @media (min-width: 1200px) {
     /* Add specific styles for extra large devices if needed */
 }
-
 
 
 /* For small devices (phones, 576px and up) */
